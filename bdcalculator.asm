@@ -1,6 +1,5 @@
 ; BD Calculator
 ; Nikhil Jain
-; Rishi Masand
 
 #include <p16f887.inc>
 
